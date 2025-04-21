@@ -28,7 +28,7 @@ I'm a Computer Science student at the University of Southampton. I'm currently e
 ## 🏆 Achievements
 
 - **2nd Place – SotonHack 2025**  
-  Placed second in a 24-hour hackathon at the University of Southampton. [View project details](https://www.linkedin.com/posts/hussain-homadi_sotonhack-cybersecurity-computervision-activity-7309361379751153666-MVSQ)
+  Placed second in a hackathon at the University of Southampton. [View project details](https://www.linkedin.com/posts/hussain-homadi_sotonhack-cybersecurity-computervision-activity-7309361379751153666-MVSQ)
 
 ---
 
